@@ -4,8 +4,8 @@
 
 Este é um exemplo de projeto com git
 
-# Claiton fofo
+# Claiton fofão
 
 ## Aiaiaiaia minha mão ta doendo, claiton para de passar coisa na lousa
 
-Claiton fofo
+Claiton fofinho
